@@ -1,0 +1,73 @@
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe.config
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.pdb
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.Properties.Resources.resources
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.exe
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.pdb
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAccountProfile.resources
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAdmin.resources
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fTableManager.resources
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csprojAssemblyReference.cache
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe.config
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.pdb
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csprojAssemblyReference.cache
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAccountProfile.resources
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAdmin.resources
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fTableManager.resources
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.exe
+D:\SourceCodeC#\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.pdb
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe.config
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.pdb
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csprojAssemblyReference.cache
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAccountProfile.resources
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAdmin.resources
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fTableManager.resources
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.exe
+D:\Visual Studio - WorkSpace\QL QuanCaffe Trailer\Quan Ly Quan Cafe Trailer\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.pdb
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe.config
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.exe
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\Quan Ly Quan Cafe.pdb
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csprojAssemblyReference.cache
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAccountProfile.resources
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fAdmin.resources
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan_Ly_Quan_Cafe.fTableManager.resources
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.csproj.CopyComplete
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.exe
+D:\Visual Studio 2019 - Work Space\QL QuanCaffe\Quan Ly Quan Cafe\Quan Ly Quan Cafe\obj\Debug\Quan Ly Quan Cafe.pdb
